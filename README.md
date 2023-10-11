@@ -10,7 +10,7 @@
 git clone https://github.com/TarhunNyan/nvim-configuration.git ./nvim
 ```
 
-Устанавливаем [VimPlug](#https://github.com/junegunn/vim-plug#neovim). Открываем через nvim файл init.vim. Вызываем внутри vim команды:
+Устанавливаем [VimPlug](https://github.com/junegunn/vim-plug#neovim). Открываем через nvim файл init.vim. Вызываем внутри vim команды:
 
 ```bash
 :soure %
